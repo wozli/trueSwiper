@@ -1,0 +1,9 @@
+GET http://130.193.35.28:8080/v1/news
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer DMnOU3M0iBlE68eTeivFV7bT5yO9HbXF_1571926275
+
+<> 2019-11-13T063652.200.json
+
+###
+

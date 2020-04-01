@@ -1,0 +1,83 @@
+@import "vars";
+@import "mixins";
+@import "default";
+@import "trueSwiper";
+@import "pswp";
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    min-height: 100vh;
+    margin: 0;
+    height: 100%;
+    background-color: #595D60;
+    padding: 0 15px;
+}
+
+html {
+    height: 100%;
+}
+
+h1 {
+    padding: 0;
+    margin: 0;
+}
+
+button {
+    outline: none;
+    border: none;
+    background: none;
+    box-shadow: none;
+    cursor: pointer;
+    padding: 0;
+    margin: 0;
+}
+
+input, textarea, button, select {
+    outline: none;
+}
+
+input {
+    font-family: inherit;
+    font-size: 100%;
+    margin: 0;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+
+input[type='number'] {
+    -moz-appearance: textfield;
+}
+
+input, select {
+    cursor: pointer;
+    background: transparent;
+    outline: none;
+}
+
+img {
+    max-width: 100%;
+
+    vertical-align: middle;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+
+
+
+
+
+

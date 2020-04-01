@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="583b6cd8-8274-48f6-8916-fb7c6059209b" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-782499633">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="8" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="6" />
+          <entry key="project.open.time.20" value="2" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.23" value="2" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="30" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="24" />
+          <entry key="html" value="31" />
+          <entry key="js" value="70" />
+          <entry key="json" value="8" />
+          <entry key="png" value="2" />
+          <entry key="rnc" value="1" />
+          <entry key="scss" value="39" />
+          <entry key="svg" value="11" />
+          <entry key="ts" value="1" />
+          <entry key="vue" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="24" />
+          <entry key="HTML" value="31" />
+          <entry key="Image" value="2" />
+          <entry key="JSON" value="8" />
+          <entry key="JavaScript" value="70" />
+          <entry key="RNG Compact" value="1" />
+          <entry key="SCSS" value="39" />
+          <entry key="SVG" value="11" />
+          <entry key="TypeScript" value="1" />
+          <entry key="Vue.js" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="38" />
+          <entry key="html" value="983" />
+          <entry key="js" value="1906" />
+          <entry key="json" value="2" />
+          <entry key="scss" value="4336" />
+          <entry key="svg" value="2" />
+          <entry key="txt" value="4" />
+          <entry key="vue" value="12099" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="38" />
+          <entry key="HTML" value="1053" />
+          <entry key="JSON" value="2" />
+          <entry key="JavaScript" value="1892" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="SCSS" value="4336" />
+          <entry key="SVG" value="2" />
+          <entry key="Vue.js" value="12043" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="TypeScriptServerServiceImpl" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="2010277231">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.19" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="3" />
+          <entry key="js" value="11" />
+          <entry key="json" value="3" />
+          <entry key="png" value="13" />
+          <entry key="scss" value="7" />
+          <entry key="svg" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="3" />
+          <entry key="Image" value="13" />
+          <entry key="JSON" value="3" />
+          <entry key="JavaScript" value="11" />
+          <entry key="SCSS" value="7" />
+          <entry key="SVG" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="466" />
+          <entry key="js" value="7898" />
+          <entry key="json" value="4" />
+          <entry key="scss" value="384" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="466" />
+          <entry key="JSON" value="4" />
+          <entry key="JavaScript" value="7898" />
+          <entry key="SCSS" value="384" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-2106505649">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="5" />
+          <entry key="js" value="10" />
+          <entry key="json" value="1" />
+          <entry key="png" value="3" />
+          <entry key="scss" value="8" />
+          <entry key="svg" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="5" />
+          <entry key="Image" value="3" />
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="10" />
+          <entry key="SCSS" value="8" />
+          <entry key="SVG" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="209" />
+          <entry key="js" value="6480" />
+          <entry key="scss" value="712" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="209" />
+          <entry key="JavaScript" value="6480" />
+          <entry key="SCSS" value="712" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/js/swiper.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="485">
+              <caret line="332" lean-forward="true" selection-start-line="332" selection-end-line="332" />
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+                <element signature="n#!!block;n#changeBtnPrevNext#0;n#Swiper#0" />
+                <element signature="n#!!block;n#changePagination#0;n#Swiper#0" />
+                <element signature="n#!!block;n#onResize#0;n#Swiper#0" />
+                <element signature="n#!!block;n#initPhotoSwipe#0;n#Swiper#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="274" column="7" selection-start-line="274" selection-start-column="7" selection-end-line="274" selection-end-column="7" />
+              <folding>
+                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#picture#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/scss/pswp.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3774">
+              <caret line="222" column="29" selection-start-line="222" selection-start-column="29" selection-end-line="222" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/scss/trueSwiper.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>const http</find>
+      <find>Authorization</find>
+      <find>baseT</find>
+      <find>token</find>
+      <find>widget loaded v1.0</find>
+      <find>nameWidget</find>
+      <find>updateInterval</find>
+      <find>updateWidget</find>
+      <find>sendUrl</find>
+      <find>widgetType</find>
+      <find>widget__item</find>
+      <find>regionId</find>
+      <find>valueLevel</find>
+      <find>levelId</find>
+      <find>hrefCategory</find>
+      <find>font-fa</find>
+      <find>link</find>
+      <find>openPoll</find>
+      <find>currentPoll</find>
+      <find>this.</find>
+      <find>swapingSlide</find>
+      <find>timer</find>
+      <find>avto/avto</find>
+      <find>roninSwiper</find>
+      <find>console</find>
+      <find>changePagination</find>
+      <find>1708</find>
+      <find>thumbnail.getBoundingClientRect</find>
+      <find>default-skin.svg</find>
+      <find>default-skin</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>widget</replace>
+      <replace>1232131231</replace>
+      <replace>countPages</replace>
+      <replace>dataWidget</replace>
+      <replace />
+      <replace>maxPage</replace>
+      <replace>maxElement</replace>
+      <replace>this.settingsWidget.type.src</replace>
+      <replace>levelSelect</replace>
+      <replace>openItem</replace>
+      <replace>currentItem</replace>
+      <replace>let</replace>
+      <replace>avto</replace>
+      <replace>trueSwiper</replace>
+      <replace>840</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/layout/default.pug" />
+        <option value="$PROJECT_DIR$/src/index.pug" />
+        <option value="$PROJECT_DIR$/src/templates/header.pug" />
+        <option value="$PROJECT_DIR$/webpack.mix.js" />
+        <option value="$PROJECT_DIR$/src/scss/fonts.scss" />
+        <option value="$PROJECT_DIR$/src/scss/vars.scss" />
+        <option value="$PROJECT_DIR$/dist/js/swiper/swiper.js" />
+        <option value="$PROJECT_DIR$/src/img/sprite/icon-arrow-big.svg" />
+        <option value="$PROJECT_DIR$/dist/js/vue.js" />
+        <option value="$PROJECT_DIR$/src/img/sprite/icon-cross.svg" />
+        <option value="$PROJECT_DIR$/src/img/sprite/icon-crossrotate.svg" />
+        <option value="$PROJECT_DIR$/src/widget.html" />
+        <option value="$PROJECT_DIR$/src/js/inputMain.vue" />
+        <option value="$PROJECT_DIR$/src/scss/input.scss" />
+        <option value="$PROJECT_DIR$/dist/js/app.js" />
+        <option value="$PROJECT_DIR$/src/scss/modal.scss" />
+        <option value="$PROJECT_DIR$/src/js/itemPoll.vue" />
+        <option value="$PROJECT_DIR$/dist/css/app.css" />
+        <option value="$PROJECT_DIR$/src/scss/constructor.scss" />
+        <option value="$PROJECT_DIR$/src/scss/multiselect.scss" />
+        <option value="$PROJECT_DIR$/src/js/index.vue" />
+        <option value="$PROJECT_DIR$/src/scss/widget.scss" />
+        <option value="$PROJECT_DIR$/src/js/widget.vue" />
+        <option value="$PROJECT_DIR$/dist/css/app2.css" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/js/http.js" />
+        <option value="$PROJECT_DIR$/dist/index.html" />
+        <option value="$PROJECT_DIR$/src/js/2.js" />
+        <option value="$PROJECT_DIR$/src/scss/default.scss" />
+        <option value="$PROJECT_DIR$/src/scss/roninSwiper.scss" />
+        <option value="$PROJECT_DIR$/src/js/app.js" />
+        <option value="$PROJECT_DIR$/src/scss/app.scss" />
+        <option value="$PROJECT_DIR$/src/img/photoswipe/default-skin.svg" />
+        <option value="$PROJECT_DIR$/src/scss/pswp.scss" />
+        <option value="$PROJECT_DIR$/src/scss/trueSwiper.scss" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/src/js/swiper.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="98" />
+    <option name="y" value="4" />
+    <option name="width" value="1686" />
+    <option name="height" value="1026" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="trueSwiper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trueSwiper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trueSwiper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trueSwiper" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trueSwiper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trueSwiper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trueSwiper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trueSwiper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trueSwiper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trueSwiper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2018.2.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nikolay\Desktop\trueSwiper\src\img\photoswipe" />
+      <recent name="C:\Users\Nikolay\Desktop\trueSwiper\src\img\sprite" />
+      <recent name="C:\Users\Nikolay\Desktop\newSwiper\src\img\avto" />
+      <recent name="C:\Users\Nikolay\Desktop\EmptyProject-master\dist\js\swiper" />
+      <recent name="C:\Users\Nikolay\Desktop\EmptyProject-master\dist\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Nikolay\Desktop\trueSwiper\src\img" />
+      <recent name="C:\Users\Nikolay\Desktop\trueSwiper\src\js" />
+      <recent name="C:\Users\Nikolay\Desktop\newSwiper\src\img\avto" />
+      <recent name="C:\Users\Nikolay\Desktop\newSwiper\dist\img\avto" />
+      <recent name="C:\Users\Nikolay\Desktop\newSwiper\src\img\sprite" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://130.193.35.28:8080" />
+          <option name="urlPath" value="/v1/news" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer DMnOU3M0iBlE68eTeivFV7bT5yO9HbXF_1571926275" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="583b6cd8-8274-48f6-8916-fb7c6059209b" name="Default Changelist" comment="" />
+      <created>1561630226750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561630226750</updated>
+      <workItem from="1561630228391" duration="299000" />
+      <workItem from="1573651627934" duration="2561000" />
+      <workItem from="1573708013549" duration="29584000" />
+      <workItem from="1573794792867" duration="28440000" />
+      <workItem from="1574055336776" duration="23273000" />
+      <workItem from="1574143130287" duration="12494000" />
+      <workItem from="1574226963083" duration="5626000" />
+      <workItem from="1574314090203" duration="12855000" />
+      <workItem from="1574399460063" duration="22526000" />
+      <workItem from="1574593839280" duration="224000" />
+      <workItem from="1574681332631" duration="4441000" />
+      <workItem from="1574765913502" duration="11481000" />
+      <workItem from="1574832305309" duration="2568000" />
+      <workItem from="1574921884725" duration="7429000" />
+      <workItem from="1575288887338" duration="1128000" />
+      <workItem from="1575439252263" duration="2631000" />
+      <workItem from="1575624495721" duration="2627000" />
+      <workItem from="1575868673232" duration="9953000" />
+      <workItem from="1576138167638" duration="607000" />
+      <workItem from="1576822245755" duration="2315000" />
+      <workItem from="1576828905279" duration="1163000" />
+      <workItem from="1577079015674" duration="15547000" />
+      <workItem from="1577165529407" duration="4422000" />
+      <workItem from="1577353796480" duration="1620000" />
+      <workItem from="1578903491376" duration="11050000" />
+      <workItem from="1578988408781" duration="18381000" />
+      <workItem from="1579073047735" duration="16857000" />
+      <workItem from="1580811598571" duration="8609000" />
+      <workItem from="1580881452810" duration="3144000" />
+      <workItem from="1581342566573" duration="28000" />
+      <workItem from="1581499805269" duration="5776000" />
+      <workItem from="1582695002272" duration="29366000" />
+      <workItem from="1582781191477" duration="19131000" />
+      <workItem from="1582869529238" duration="19798000" />
+      <workItem from="1583126543857" duration="2895000" />
+      <workItem from="1583214012944" duration="2290000" />
+      <workItem from="1583234593942" duration="10043000" />
+      <workItem from="1583300322889" duration="19823000" />
+      <workItem from="1583395977233" duration="4157000" />
+      <workItem from="1583742293149" duration="6662000" />
+      <workItem from="1583929200599" duration="5682000" />
+      <workItem from="1583990336410" duration="6354000" />
+      <workItem from="1584008723146" duration="1231000" />
+      <workItem from="1584337454211" duration="6936000" />
+      <workItem from="1585722141809" duration="389000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="404416000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11727079" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="npm" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.23650108" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="REST Client" order="12" weight="0.31641468" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../ts/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/widget.html" />
+    <entry file="file://$PROJECT_DIR$/src/scss/plugins.scss" />
+    <entry file="file://$PROJECT_DIR$/dist/js/vue.js" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/web-forms.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="506" column="16" selection-start-line="506" selection-start-column="16" selection-end-line="506" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/widget.html" />
+    <entry file="file://$PROJECT_DIR$/src/scss/fonts.scss" />
+    <entry file="file://$PROJECT_DIR$/src/js/inputMain.vue" />
+    <entry file="file://$PROJECT_DIR$/src/js/itemPoll.vue" />
+    <entry file="file://$PROJECT_DIR$/src/scss/modal.scss" />
+    <entry file="file://$PROJECT_DIR$/src/scss/input.scss" />
+    <entry file="file://$PROJECT_DIR$/src/scss/multiselect.scss" />
+    <entry file="file://$PROJECT_DIR$/src/js/index.vue" />
+    <entry file="file://$PROJECT_DIR$/src/scss/widget.scss" />
+    <entry file="file://$PROJECT_DIR$/src/scss/constructor.scss" />
+    <entry file="file://$PROJECT_DIR$/dist/css/app2.css" />
+    <entry file="file://$PROJECT_DIR$/dist/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1802" selection-end-column="19762" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/widget.vue" />
+    <entry file="file://$PROJECT_DIR$/src/img/sprite/icon-arrow.svg" />
+    <entry file="file://$PROJECT_DIR$/src/img/sprite/icon-attention.svg" />
+    <entry file="file://$PROJECT_DIR$/src/img/avto/avto1x.png" />
+    <entry file="file://$PROJECT_DIR$/src/img/avto/avto1.5x.png" />
+    <entry file="file://$PROJECT_DIR$/src/img/avto/avto2x.png" />
+    <entry file="file://$PROJECT_DIR$/src/js/2.js" />
+    <entry file="file://$PROJECT_DIR$/src/img/sprite/minus.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/img/avto/avto1-3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/img/avto/avto1.5x.png" />
+    <entry file="file://$PROJECT_DIR$/src/scss/default.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/avto/avto1-1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/avto/avto1-2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/avto/avto1-3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/ecommerce.js" />
+    <entry file="file://$PROJECT_DIR$/src/js/swiperOld.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="166" column="48" selection-start-line="166" selection-start-column="35" selection-end-line="166" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/swiper2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="245" column="33" selection-start-line="245" selection-start-column="33" selection-end-line="245" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/sprite/magnifier.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/spritemap.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.mix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="41" column="51" selection-start-line="41" selection-start-column="51" selection-end-line="41" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/sprite/icon-arrow-big.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/photoswipe/dist/photoswipe.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-833">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/photoswipe/dist/photoswipe-ui-default.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/photoswipe/default-skin.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/vars.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/mixins.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="274" column="7" selection-start-line="274" selection-start-column="7" selection-end-line="274" selection-end-column="7" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#picture#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/pswp.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3774">
+          <caret line="222" column="29" selection-start-line="222" selection-start-column="29" selection-end-line="222" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/trueSwiper.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/swiper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="332" lean-forward="true" selection-start-line="332" selection-end-line="332" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+            <element signature="n#!!block;n#changeBtnPrevNext#0;n#Swiper#0" />
+            <element signature="n#!!block;n#changePagination#0;n#Swiper#0" />
+            <element signature="n#!!block;n#onResize#0;n#Swiper#0" />
+            <element signature="n#!!block;n#initPhotoSwipe#0;n#Swiper#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
