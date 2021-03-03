@@ -21,7 +21,7 @@
     "cross-env": "^5.2.0",
     "laravel-mix": "^2.1.14",
     "laravel-mix-pug": "^0.3.0",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "svg-spritemap-webpack-plugin": "^1.0.0"
   },
   "dependencies": {
