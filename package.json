@@ -22,7 +22,7 @@
     "laravel-mix": "^2.1.14",
     "laravel-mix-pug": "^0.3.0",
     "pug": "^2.0.3",
-    "svg-spritemap-webpack-plugin": "^1.0.0"
+    "svg-spritemap-webpack-plugin": "^4.5.0"
   },
   "dependencies": {
     "es6-object-assign": "^1.1.0",
